@@ -1,1 +1,0 @@
-# adiarta.github.io
