@@ -9,3 +9,34 @@
 section {
   padding-top: 6rem;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.9;
+}
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+.fa-instagram {
+  background: #bb0000;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-whatsapp {
+  background: #26ec7f;
+  color: white;
+}
+.fa-github {
+  background: #232136;
+  color: white;
+}
